@@ -1,1 +1,2 @@
 # Jsp_gram
+JSPGram is a social media web application built using Spring Boot, JSP, and Hibernate, designed to provide users with a platform to share posts, like, and comment. The project follows the MVC architecture and integrates Spring Security for authentication and authorization. It uses MySQL as the database, with JPA/Hibernate handling ORM. The frontend is built with JSP, Bootstrap, and JavaScript, ensuring a responsive and dynamic user experience. The backend is powered by Spring Boot REST APIs, handling user interactions, post management, and notifications. 
